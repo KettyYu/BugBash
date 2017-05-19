@@ -34,7 +34,7 @@ Four byte: Hangul        ᄓᄕᇬᇌᇜᇱㄱㅣ가힝
 \\cpvsbuild\DROPS\dev11\RTMRel\raw\50718.00\rus\binaries.x86ret\Localized\rus\vset\common\Methdologies\Common\Resources
 
 FRA:
-éçàèùûôâêîÖÄÏÜË
+éçàèùûôâêîÖÄÏÜË sdsdfsdfsdf
 
 DEU:
 Äöüßdráóíéú§
