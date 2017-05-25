@@ -44,7 +44,7 @@ ITA:
 
 KOR:
 풀로프라이 템플릿은스크럼 방법과 스크럼 용어 팀을 따르십시오.
-
+  dfgdgfdfgsgsg
 JPN:
 理事官参照してください sdsadsdd
 亹俅俋俏俒㑨倢倞偂㑪侅伷㒒僡僙僔𠌫傱傺僄傒傣偰偪 jkljljklh
