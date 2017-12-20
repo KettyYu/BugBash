@@ -8,7 +8,7 @@ namespace ConsoleApplication1
 {
     class Program
     {
-        // edit directly by web access
+        // edit2 directly by web access
         static void Main(string[] args)
         {
             /*
