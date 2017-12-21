@@ -61,6 +61,12 @@ RUS:
              
              */
         }
+
+
+        static master()
+        {
+            // TODO
+        }
     }
 }
 
