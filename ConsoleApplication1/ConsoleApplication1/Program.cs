@@ -14,7 +14,7 @@ namespace ConsoleApplication1
             /*
              Single byte
 !"#)6=@Aa}~
-
+//hello Thursday
 Double byte
 啊齄丂狛狜隣郎隣兀﨩ˊ▇█〞〡￤℡㈱‐ー﹡﹢﹫、〓ⅰⅹ⒈€㈠㈩ⅠⅫ！￣ぁんァヶΑ︴АЯаяāɡㄅㄩ─╋︵﹄︻︱︳︴ⅰⅹɑɡ〇〾⿻⺁䜣€ xsdvsdvsdf
 
