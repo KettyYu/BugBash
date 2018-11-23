@@ -70,4 +70,6 @@ RUS:
     }
 }
 
+// edit3 in vs2017 15.5.2
+//edit in repo at shared folder
 // edit4 in vs2017 15.5.2
